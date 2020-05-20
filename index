@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Welcome to my space</title>
+</head>
+<body>
+	<header>
+	<h1> Krishna</h1>
+	</header>
+	<nav>
+  <a href="https://www.google.com/search?sxsrf=ALeKk02B0sG9C-WZLv8TVI77x6TxnQfPYQ%3A1589957404695&ei=HNPEXp6CKovF4-EPg46GiA4&q=whatsapp+web&oq=w&gs_lcp=CgZwc3ktYWIQAxgBMgQIIxAnMgQIIxAnMgQIIxAnMgUIABCRAjIFCAAQgwEyAggAMgIIADIFCAAQgwEyBQgAEIMBMgIIADoHCCMQ6gIQJ1CDrAFYg6wBYNHJAWgBcAB4AIABkQGIAZEBkgEDMC4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab#">One</a> |
+  <a href="https://www.google.com/search?sxsrf=ALeKk01UQE7BEbXObPCYhAHl_9_JzeWkBg%3A1589957431643&ei=N9PEXq3pJpiG4-EPk7-lmAg&q=wave.webaim&oq=w&gs_lcp=CgZwc3ktYWIQAxgBMgQIIxAnMgQIIxAnMgQIIxAnMgUIABCDATIECAAQQzICCAAyBAgAEEMyBQgAEIMBMgIIADIFCAAQgwE6BwgjEOoCECdQiqMBWIqjAWDWrgFoAXAAeACAAXqIAXqSAQMwLjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab#">Two</a> |
+  <a href="https://www.google.com/search?sxsrf=ALeKk00_pRNsbz_vu8kDw8RjDBwTBPpxQA%3A1589957454794&ei=TtPEXqyCMLmb4-EPl7KrkAo&q=freelancing&oq=freelancing&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADIECAAQCjICCAAyBAgAEAoyAggAMgIIADICCAAyAggAOgQIIxAnOgQIABAeOgYIABAFEB46BwgjEOoCECc6BwgjECcQnQI6BQgAEJECOgUIABCDAToECAAQQzoGCAAQChBDOgcIABAUEIcCUI7sBljwkQdgzZMHaAFwAHgEgAGQAogBpxSSAQYwLjE3LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwis4bOK7cHpAhW5zTgGHRfZCqIQ4dUDCAw&uact=5#">Three</a> |
+  <a href="https://www.youtube.com/">Youtube</a>
+</nav>
+
+
+
+<h2>Favourite Foods</h2>
+<ul>
+	<li>Chicken</li>
+	<li>Noodles</li>
+	<li>Biryani</li>
+	<li>Chocolate Cake</li>
+</ul>
+
+<h2>Achievements</h2>
+<label for="prog">Progress in this course (100%)</label>
+<progress id="prog" value="100" max="100"></progress><br>
+<label for="specialization">Progress in the Specialization capstone (20%)</label>
+<progress id="specialization"value="20" max="100"></progress><br>
+<label for="life goals">Progress in life goals (18%)</label>
+<progress id="life goals"value="18" max="100"></progress>
+
+<h2>More About Me</h2>
+
+<details>
+	<summary>My Childhood</summary>
+	<p>I was born in Guntur and brought up in Guntur itself.Since childhood I am fond of Bikes which made me to learn riding at a very young age.</p>
+</details>
+<footer>
+<img src="http://intro-webdesign.com/images/newlogo.png">
+This page was created by Krishna . To learn more about web design,visit <a href="http://intro-webdesign.com/">Intro to Web Design</a>
+</footer>
+</body>
+</html>
